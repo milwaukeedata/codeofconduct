@@ -1,9 +1,24 @@
-codeofconduct
+MDI Code of Conduct
 =============
 
-####Code for America's Code of Conduct
+MDI is a proud Network Member of Code for America. This Code of Conduct is a derivative of the Code for America Code of Conduct.
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+####Milwaukee Data Initiative and HackMKE Expectations
+MDI advocates using shareable data, tools and technology to improve the quality of life in Milwaukee. To do that, we conduct activities and organize events under the following expectations for our participants and ourselves:
+
+*MDI EVENTS AND ACTIVITIES ARE*
+* A place for _constructive, respectful dialogue_ about tech and data in our city
+* A way to promote of the great work already being done to make Milwaukee a smarter place
+* Meant to bring together residents, technology experts, government, social organizations and business to improve the quality of life in Milwaukee
+
+*MDI _IS NOT_*
+* A political platform for governments, individuals or private companies
+* A place that governments or for private companies can expect to find free labor
+* Solely focused on technology solutions to the wicked problems we face
+
+####MDI Code of Conduct
+
+The MDI Code of Conduct expects that MDI network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -20,7 +35,7 @@ The Code for America community expects that Code for America network activities,
 
 Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
-####Code for America's Anti-Harassment Policy
+####Milwaukee Data initiative Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -46,11 +61,10 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#####Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
 I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
 
-You can reach me at (CONTACT INFO). Thank you.
-
+You can reach me at (CONTACT INFO). Thank you. 
